@@ -1,0 +1,89 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, sans-serif;
+    background-color: #f4f6f9;
+    color: #333333;
+    line-height: 1.6;
+}
+
+header{
+    background-color: #315b8a;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+h1{
+    font-size: 32px;
+    margin-bottom: 10px;
+}
+
+.subtitle{
+    font-size: 18px;
+    color: #e5edf6;
+}
+
+nav{
+    background-color: #263f5c;
+    text-align: center;
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 16px;
+}
+
+nav a:hover {
+    color: #f5c66b;
+}
+
+.about {
+    background-color: white;
+    margin: 25px;
+    padding: 25px;
+    text-align: center;
+}
+
+h2{
+    color: #315b8a;
+    margin-bottom: 15px;
+}
+
+.learning{
+    background-color: #e5edf6;
+    margin: 25px;
+    padding: 25px;
+}
+
+ul{
+    padding-left: 25px;
+    line-height: 2;
+}
+
+.goal{
+    background-color: white;
+    margin: 25px;
+    padding: 25px;
+    text-align: center;
+}
+
+#goal-text {
+    color: #c05a40;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+footer {
+    background-color: #263f5c;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
